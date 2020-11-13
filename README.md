@@ -13,4 +13,4 @@ c. To obtain a segment 32ms long from a region with speech and another segment o
 d. To compute the Discrete Fourier, Transform of both signals in (c) above.
 
 
-### Wanna give this lab a try using R? Then strap in! The adventuRe begins [here](rpubs.com/eR_ic/dspr)! 👨‍🚀👩‍🚀
+### Wanna give this lab a try using R? Then strap in! The adventuRe begins [here](https://rpubs.com/eR_ic/dspr)! 👨‍🚀👩‍🚀
