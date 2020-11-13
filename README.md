@@ -1,6 +1,6 @@
 # DSP_MATLAB
  
- ### Analysis of Speech in the Time and Frequency Domain using MATLAB
+ ### Analysis of [Speech in the Time and Frequency Domain](https://github.com/R-icntay/DSP_MATLAB/blob/gh-pages/Code/DSP_MATLAB.pdf) using MATLAB
  
  In this lab, we analysed a speech signal in the time and frequency domain. The objectives of this experiment were:
 
